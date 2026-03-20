@@ -1,31 +1,38 @@
-Paradigm Shift by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# 🌐 Hung Nguyen Portfolio
 
+This is my personal portfolio website, built using the Paradigm Shift template by HTML5 UP and customized to showcase my projects, experience, and technical skills.
 
-Say hello to Paradigm Shift, my first addition to HTML5 UP in more than a year (!!!).
-Took things in a slightly different direction with this one, partly to mess with CSS
-grid (which this one relies on pretty heavily) but mostly to get back to making weirder
-and more experimental designs/layouts. Anyway, hope you dig it, and thanks for the
-continued support despite the lack of updates :)
+##  About Me
+I’m a Computer Science graduate from Seattle Pacific University with experience in full-stack development, mobile applications, and cloud-based systems.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+I enjoy building real-world applications, especially in:
+- Mobile development (React Native)
+- Backend systems (Node.js, AWS)
+- Data pipelines and real-time processing
 
-(* = not included)
+## 🛠️ Tech Stack
+- HTML5, CSS3, JavaScript
+- React Native
+- Node.js
+- AWS (Lambda, DynamoDB, EC2)
+- PostgreSQL, Kafka, Databricks
 
-AJ
-aj@lkn.io | @ajlkn
+## 📂 Featured Projects
+- **SEEN** – Real-time ASL translation mobile app
+- **Renewtronics** – Mobile marketplace for used electronics
+- **WebCrawler** – Graph-based website crawler and visualization tool
+- **HIV Data Dashboard** – Interactive data visualization in R (Shiny, Plotly)
 
+## 🔗 Live Site
+👉 [View Portfolio](https://your-portfolio-link.com)
 
-Credits:
+## 📫 Contact
+- Email: your-email@example.com
+- LinkedIn: https://linkedin.com/in/your-profile
 
-	Demo Images:
-		Unsplash (unsplash.com)
+---
 
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## 🙏 Credits
+- Template: [HTML5 UP – Paradigm Shift](https://html5up.net/paradigm-shift)
+- Images: [Unsplash](https://unsplash.com)
+- Icons: [Font Awesome](https://fontawesome.com)
