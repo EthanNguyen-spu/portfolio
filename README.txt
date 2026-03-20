@@ -24,11 +24,11 @@ I enjoy building real-world applications, especially in:
 - **HIV Data Dashboard** – Interactive data visualization in R (Shiny, Plotly)
 
 ## 🔗 Live Site
-👉 [View Portfolio](https://your-portfolio-link.com)
+👉 [View Portfolio](https://ethannguyen-spu.github.io/portfolio/)
 
 ## 📫 Contact
-- Email: your-email@example.com
-- LinkedIn: https://linkedin.com/in/your-profile
+- Email: ethanng1218@gmail.com
+- LinkedIn: https://www.linkedin.com/in/hung-nguyen-036891271/
 
 ---
 
